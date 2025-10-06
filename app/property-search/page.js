@@ -214,15 +214,15 @@ export default function PropertySearch() {
               <div className="p-6">
                 <div className="flex justify-between items-start mb-2">
                   <span className="text-2xl font-bold text-gray-900">
-                    $425,000
+                    AED 1,560,000
                   </span>
                   <span className="text-sm text-gray-500">3 days ago</span>
                 </div>
                 <h3 className="text-lg font-semibold text-gray-900 mb-2">
-                  Beautiful Family Home
+                  Beautiful Family Villa
                 </h3>
                 <p className="text-gray-600 text-sm mb-3">
-                  123 Main Street, Springfield, IL 62701
+                  Palm Jumeirah, Dubai, UAE
                 </p>
                 <div className="flex items-center justify-between text-sm text-gray-500">
                   <span>3 beds</span>
@@ -244,15 +244,15 @@ export default function PropertySearch() {
               <div className="p-6">
                 <div className="flex justify-between items-start mb-2">
                   <span className="text-2xl font-bold text-gray-900">
-                    $675,000
+                    AED 2,480,000
                   </span>
                   <span className="text-sm text-gray-500">1 week ago</span>
                 </div>
                 <h3 className="text-lg font-semibold text-gray-900 mb-2">
-                  Modern Luxury Condo
+                  Modern Luxury Apartment
                 </h3>
                 <p className="text-gray-600 text-sm mb-3">
-                  456 Oak Avenue, Chicago, IL 60601
+                  Dubai Marina, Dubai, UAE
                 </p>
                 <div className="flex items-center justify-between text-sm text-gray-500">
                   <span>2 beds</span>
@@ -274,15 +274,15 @@ export default function PropertySearch() {
               <div className="p-6">
                 <div className="flex justify-between items-start mb-2">
                   <span className="text-2xl font-bold text-gray-900">
-                    $325,000
+                    AED 1,195,000
                   </span>
                   <span className="text-sm text-gray-500">2 weeks ago</span>
                 </div>
                 <h3 className="text-lg font-semibold text-gray-900 mb-2">
-                  Cozy Starter Home
+                  Cozy Starter Apartment
                 </h3>
                 <p className="text-gray-600 text-sm mb-3">
-                  789 Pine Street, Peoria, IL 61602
+                  Jumeirah Village Circle, Dubai, UAE
                 </p>
                 <div className="flex items-center justify-between text-sm text-gray-500">
                   <span>2 beds</span>
@@ -304,15 +304,15 @@ export default function PropertySearch() {
               <div className="p-6">
                 <div className="flex justify-between items-start mb-2">
                   <span className="text-2xl font-bold text-gray-900">
-                    $850,000
+                    AED 3,125,000
                   </span>
                   <span className="text-sm text-gray-500">5 days ago</span>
                 </div>
                 <h3 className="text-lg font-semibold text-gray-900 mb-2">
-                  Spacious Estate
+                  Spacious Villa
                 </h3>
                 <p className="text-gray-600 text-sm mb-3">
-                  321 Elm Drive, Naperville, IL 60540
+                  Arabian Ranches, Dubai, UAE
                 </p>
                 <div className="flex items-center justify-between text-sm text-gray-500">
                   <span>4 beds</span>
@@ -334,7 +334,7 @@ export default function PropertySearch() {
               <div className="p-6">
                 <div className="flex justify-between items-start mb-2">
                   <span className="text-2xl font-bold text-gray-900">
-                    $550,000
+                    AED 2,025,000
                   </span>
                   <span className="text-sm text-gray-500">1 day ago</span>
                 </div>
@@ -342,7 +342,7 @@ export default function PropertySearch() {
                   Downtown Loft
                 </h3>
                 <p className="text-gray-600 text-sm mb-3">
-                  567 Lake Street, Chicago, IL 60654
+                  Downtown Dubai, Dubai, UAE
                 </p>
                 <div className="flex items-center justify-between text-sm text-gray-500">
                   <span>2 beds</span>
@@ -364,15 +364,15 @@ export default function PropertySearch() {
               <div className="p-6">
                 <div className="flex justify-between items-start mb-2">
                   <span className="text-2xl font-bold text-gray-900">
-                    $395,000
+                    AED 1,455,000
                   </span>
                   <span className="text-sm text-gray-500">1 week ago</span>
                 </div>
                 <h3 className="text-lg font-semibold text-gray-900 mb-2">
-                  Charming Bungalow
+                  Charming Townhouse
                 </h3>
                 <p className="text-gray-600 text-sm mb-3">
-                  890 Maple Avenue, Aurora, IL 60505
+                  Al Furjan, Dubai, UAE
                 </p>
                 <div className="flex items-center justify-between text-sm text-gray-500">
                   <span>3 beds</span>

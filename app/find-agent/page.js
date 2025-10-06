@@ -17,45 +17,45 @@ export default function FindAgent() {
   const agents = [
     {
       id: 1,
-      name: "Matthew Karjalahti",
+      name: "Ahmed Al Mansoori",
       title: "Broker, Owner",
-      licensed: "Licensed in IA",
-      location: "Grinnell",
-      company: "RE/MAX Partners Realty",
-      phone: "(641) 260-0672",
+      licensed: "Licensed in Dubai",
+      location: "Dubai Marina",
+      company: "RE/MAX Dubai Properties",
+      phone: "+971 4 123 4567",
       image:
         "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=200&h=200&fit=crop",
     },
     {
       id: 2,
-      name: "Trey LaQuey",
+      name: "Sara Al Hashemi",
       title: "Associate",
-      licensed: "Licensed in TX",
-      location: "Plano",
-      company: "RE/MAX Dallas Suburbs",
-      phone: "(469) 734-3815",
+      licensed: "Licensed in Dubai",
+      location: "Downtown Dubai",
+      company: "RE/MAX Emirates",
+      phone: "+971 4 234 5678",
       image:
         "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=200&h=200&fit=crop",
     },
     {
       id: 3,
-      name: "Sean Seigel",
+      name: "Mohammed Al Zaabi",
       title: "Associate",
-      licensed: "Licensed in CT, RI",
-      location: "Mystic",
-      company: "RE/MAX Coast and Country",
-      phone: "(401) 207-5367",
+      licensed: "Licensed in Abu Dhabi, Dubai",
+      location: "Abu Dhabi",
+      company: "RE/MAX Capital Realty",
+      phone: "+971 2 345 6789",
       image:
         "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=200&h=200&fit=crop",
     },
     {
       id: 4,
-      name: "Patrick Stracuzzi",
+      name: "Fatima Al Suwaidi",
       title: "Broker Owner",
-      licensed: "Licensed in FL",
-      location: "Stuart",
-      company: "RE/MAX Community",
-      phone: "",
+      licensed: "Licensed in Sharjah",
+      location: "Sharjah",
+      company: "RE/MAX Sharjah Homes",
+      phone: "+971 6 456 7890",
       image:
         "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&h=200&fit=crop",
     },
@@ -84,7 +84,7 @@ export default function FindAgent() {
                 type="text"
                 value={searchCity}
                 onChange={(e) => setSearchCity(e.target.value)}
-                placeholder="Search by city, state or zip"
+                placeholder="Search by city, emirate or area"
                 className="w-full px-4 text-gray-600 py-3 border border-gray-300 rounded focus:outline-none focus:border-blue-500"
               />
             </div>

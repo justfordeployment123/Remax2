@@ -365,7 +365,7 @@ export default function SellingGuide() {
             </div>
             <div>
               <label className="block text-sm font-semibold text-gray-700 mb-2">
-                Zip Code <span className="text-red-600">*</span>
+                Emirate / Area <span className="text-red-600">*</span>
               </label>
               <input
                 type="text"
@@ -373,6 +373,7 @@ export default function SellingGuide() {
                 value={formData.zipCode}
                 onChange={handleInputChange}
                 required
+                placeholder="e.g., Dubai, Abu Dhabi"
                 className="w-full px-4 py-3 border border-gray-300 rounded focus:outline-none focus:border-blue-500 bg-white"
               />
             </div>

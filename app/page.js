@@ -92,11 +92,11 @@ export default function Home() {
             </div>
             <div className="flex-1">
               <h2 className="text-2xl font-bold text-gray-900 mb-2">
-                Voted #1 Most Trusted Real Estate Agents in the USA
+                #1 Most Trusted Real Estate Agents in the UAE
               </h2>
               <p className="text-gray-600">
-                Voted most trusted Real Estate Agency brand by American shoppers based on the
-                BrandSpark® American Trust Study, years 2022-2024 and 2019.
+                Most trusted Real Estate Agency brand in the UAE, providing exceptional service
+                to residents and investors across all Emirates since 2019.
               </p>
             </div>
           </div>
@@ -144,7 +144,7 @@ export default function Home() {
       <section className="py-16 bg-gray-50">
         <div className="max-w-7xl mx-auto px-4">
           <h2 className="text-3xl font-bold text-center mb-12 text-gray-900">
-            Popular Searches Nearby New York, NY
+            Popular Searches Nearby Dubai, UAE
           </h2>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
@@ -190,15 +190,15 @@ export default function Home() {
                 </div>
                 <div className="p-8 flex flex-col justify-center">
                   <h3 className="text-xl font-bold mb-2 text-gray-900">
-                    U.S. Market Update: New Listings on the Rise Heading into Summer
+                    UAE Market Update: New Listings on the Rise Across All Emirates
                   </h3>
                   <p className="text-gray-500 text-sm mb-2">June 18, 2025</p>
                   <span className="inline-block bg-blue-100 text-blue-800 text-sm px-3 py-1 rounded-full mb-4 w-fit">
                     Market Trends
                   </span>
                   <p className="text-gray-600 mb-6 leading-relaxed">
-                    Explore comprehensive data pertaining to new listings, home prices, time spent on market and
-                    more in the latest RE/MAX National Housing Report for May 2025.
+                    Explore comprehensive data pertaining to new listings, property prices, time spent on market and
+                    more in the latest RE/MAX UAE Housing Report for May 2025.
                   </p>
                   <a href="#" className="text-blue-600 font-medium hover:underline uppercase text-sm">READ POST</a>
                 </div>
@@ -280,14 +280,14 @@ export default function Home() {
         <div className="max-w-7xl mx-auto px-4">
           <h3 className="text-xl font-bold mb-6">Real Estate Listings By City</h3>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
-            <a href="#" className="text-blue-600 hover:underline">Homes for sale in Atlanta</a>
-            <a href="#" className="text-blue-600 hover:underline">Homes for sale in Austin</a>
-            <a href="#" className="text-blue-600 hover:underline">Homes for sale in Denver</a>
-            <a href="#" className="text-blue-600 hover:underline">Homes for sale in Nashville</a>
-            <a href="#" className="text-blue-600 hover:underline">Homes for sale in New York</a>
-            <a href="#" className="text-blue-600 hover:underline">Homes for sale in Orlando</a>
-            <a href="#" className="text-blue-600 hover:underline">Homes for sale in Phoenix</a>
-            <a href="#" className="text-blue-600 hover:underline">Homes for sale in Seattle</a>
+            <a href="#" className="text-blue-600 hover:underline">Properties for sale in Dubai</a>
+            <a href="#" className="text-blue-600 hover:underline">Properties for sale in Abu Dhabi</a>
+            <a href="#" className="text-blue-600 hover:underline">Properties for sale in Sharjah</a>
+            <a href="#" className="text-blue-600 hover:underline">Properties for sale in Ajman</a>
+            <a href="#" className="text-blue-600 hover:underline">Properties for sale in Ras Al Khaimah</a>
+            <a href="#" className="text-blue-600 hover:underline">Properties for sale in Fujairah</a>
+            <a href="#" className="text-blue-600 hover:underline">Properties for sale in Umm Al Quwain</a>
+            <a href="#" className="text-blue-600 hover:underline">Properties for sale in Al Ain</a>
           </div>
         </div>
       </section>

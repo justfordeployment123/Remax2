@@ -50,41 +50,41 @@ export default function OfficeSearch() {
   const offices = [
     {
       id: 1,
-      name: "RE/MAX Realty Team - The Curtis Edwards Team",
+      name: "RE/MAX Dubai Marina",
       address:
-        "504 Osigian Boulevard, Suite 102, Warner Robins, GA, 31088, United States",
-      phone: "(478) 353-1234",
+        "Marina Plaza, Level 21, Dubai Marina, Dubai, United Arab Emirates",
+      phone: "+971 4 123 4567",
     },
     {
       id: 2,
-      name: "RE/MAX Bridges",
-      address: "2006 W Market St, Lewisburg, PA, 17837-6800, United States",
-      phone: "(570) 768-4792",
+      name: "RE/MAX Downtown Dubai",
+      address: "Boulevard Plaza, Tower 1, Downtown Dubai, Dubai, United Arab Emirates",
+      phone: "+971 4 234 5678",
     },
     {
       id: 3,
-      name: "RE/MAX Associates",
-      address: "418 E Savannah Rd, Lewes, DE, 19958-1133, United States",
-      phone: "(302) 645-0800",
+      name: "RE/MAX Abu Dhabi Central",
+      address: "Corniche Tower, Level 15, Corniche Road, Abu Dhabi, United Arab Emirates",
+      phone: "+971 2 345 6789",
     },
     {
       id: 4,
-      name: "RE/MAX Executives",
-      address: "2611 S. Clark St. , Arlington, VA, 22202, United States",
-      phone: "(703) 222-4663",
+      name: "RE/MAX Sharjah",
+      address: "Al Majaz Waterfront, Building 3, Sharjah, United Arab Emirates",
+      phone: "+971 6 456 7890",
     },
     {
       id: 5,
-      name: "RE/MAX Terrasol",
-      address: "24582 Del Prado, Ste G, Dana Point, CA, 92629, United States",
-      phone: "(949) 373-8880",
+      name: "RE/MAX Palm Jumeirah",
+      address: "Golden Mile Galleria, Palm Jumeirah, Dubai, United Arab Emirates",
+      phone: "+971 4 567 8901",
     },
     {
       id: 6,
-      name: "RE/MAX Citibrokers",
+      name: "RE/MAX Business Bay",
       address:
-        "2607 SE Blvd., Building A, Suite 101, Spokane, WA, 99223, United States",
-      phone: "(509) 328-5467",
+        "Churchill Tower, Level 12, Business Bay, Dubai, United Arab Emirates",
+      phone: "+971 4 678 9012",
     },
   ];
 
@@ -110,7 +110,7 @@ export default function OfficeSearch() {
               type="text"
               value={searchCity}
               onChange={(e) => setSearchCity(e.target.value)}
-              placeholder="Search by city, state or zip"
+              placeholder="Search by city, emirate or area"
               className="w-full px-4 py-3 border  text-gray-600 border-gray-300 rounded focus:outline-none focus:border-blue-500"
             />
             <input
